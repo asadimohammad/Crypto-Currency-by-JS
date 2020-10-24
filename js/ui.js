@@ -24,7 +24,7 @@ class UI {
             case 'GBP':
                 currencyTitle = 'Pound'
                 break;
-            case 'Euro':
+            case 'EUR':
                 currencyTitle = 'Euro'
                 break;
         }
