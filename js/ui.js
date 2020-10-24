@@ -19,13 +19,13 @@ class UI {
         let currencyTitle;
         switch (currency) {
             case 'USD':
-                currencyTitle = 'Dollor'
+                currencyTitle = 'Dollor';
                 break;
             case 'GBP':
-                currencyTitle = 'Pound'
+                currencyTitle = 'Pound';
                 break;
             case 'EUR':
-                currencyTitle = 'Euro'
+                currencyTitle = 'Euro';
                 break;
         }
         let templateHtml = `
